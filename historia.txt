@@ -2,3 +2,4 @@ Había una vez un patito tan chiquito
 Que un día tomo un ordenador 
 y se convirtió en un patito de hule 
 Desde ese día, vive al lado del teclado de un programador
+Cada vez que el programador tiene un error en su código, le explica el problema al patito paso a paso, ¡y como el patito de hule escucha tan atentamente, el misterio siempre se resuelve!
